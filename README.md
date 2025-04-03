@@ -22,6 +22,15 @@ Visualization: Interactive dashboards with Plotly
 
 Time Series Analysis: Rolling windows, drawdowns, clustering
 
+## 📊 Visualizations
+
+### Sensex Closing Prices Over Time
+![Sensex Closing Prices](images/newplot_1.png)
+
+### Daily Returns and Drawdowns
+![Daily Returns](images/newplot_2.png)
+
+
 ## 📂 Project Structure
 ```
 📁 Stock Market Crash Analysis
