@@ -27,7 +27,7 @@ Time Series Analysis: Rolling windows, drawdowns, clustering
 ### Sensex Closing Prices Over Time
 ![Sensex Closing Prices](https://github.com/user-attachments/assets/b98f805b-e488-435c-a463-4b131440d69e)
 ### Daily Returns and Drawdowns
-![Daily Returns and Drawdowns](https://github.com/user-attachments/assets/c98cd64c-df1c-4951-ab1d-984861780a4d)
+![Daily Returns and Drawdowns](https://github.com/user-attachments/assets/e330c1fc-eb9d-456f-bd22-b68237a5a2f9)
 
 
 ## 📂 Project Structure
