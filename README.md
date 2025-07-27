@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib plotly
 ```
 jupyter notebook stock_crash_analysis.ipynb
 ```
-## 📬 Contact
+## 📬 Contact.
 
 For any questions, feel free to reach out:
 
