@@ -1,6 +1,6 @@
-# Stock-Market-Crash-Analysis
+# Stock-Market-Crash-Analysis.
 
-## 📌 Project Overview
+## 📌 Project Overview.
 
 This project analyzes historical stock market crashes using Sensex data. It identifies major crash periods (1997, 2008-09, 2020), calculates daily returns and drawdowns, and visualizes market trends to enhance understanding of market volatility and resilience.
 
